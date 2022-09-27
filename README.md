@@ -1,4 +1,4 @@
 # hi
 my first repository
 
-I like 🍣 and 🐶.
+I like 🍣 and 🐶 and 🐱
